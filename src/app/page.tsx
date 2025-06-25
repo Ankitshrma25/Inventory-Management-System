@@ -7,7 +7,7 @@ export default function Home() {
     <div className="text-3xl bg-amber-600 text-white ">
       This is the set up of Inventory Management System
     </div>
-      <Button>Test Click</Button>
+      <Button>Test Click </Button>
     </>
   )
 }
